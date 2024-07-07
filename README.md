@@ -13,6 +13,4 @@ A collection of Natural Language Processing (NLP) projects, including experiment
 
 Contributions are welcome! Please open an issue or submit a pull request for any suggestions or improvements.
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
