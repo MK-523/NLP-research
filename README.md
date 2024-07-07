@@ -6,7 +6,7 @@ A collection of Natural Language Processing (NLP) projects, including experiment
 
 ## Projects
 
-- [Music-NLP](Music-NLP/README.md): Projects at the intersection of music and NLP.
+- NLP Music: Projects at the intersection of music and NLP.
 - More projects to be added soon!
 
 ## Contributing
